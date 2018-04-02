@@ -1,12 +1,12 @@
 .wrap{
-	background: white;
+	background: transparent;
 	width: 900px;
 	margin: 40px auto;
 }
  
 /*bagian header*/
 .wrap .header{
-	background: grey;
+	background: transparent;
 	/*height: 50px;*/
 	padding: 2px 10px;
 }
@@ -53,7 +53,7 @@
 /*akhir sidebar*/
  
 .wrap .badan .content{
-	background: none;
+	background: white;
 	float: left;
 	height: 100%;
 	width: 75%;	
