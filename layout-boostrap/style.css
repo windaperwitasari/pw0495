@@ -1,0 +1,54 @@
+.header {
+	background-color: grey;
+}
+
+.header h1 {
+	background: black;
+	font-family: arial;
+	color: white;
+	width: 30%;
+	float: center;
+	text-align: center;
+	padding: 15px 15px 15px 0;
+	border-top-right-radius:20px;
+	border-bottom-right-radius:20px;  
+}
+
+.header h1 small {
+	font-size: 12px;
+	font-style: italic;
+	color: white;
+}
+
+
+.menu ul li{
+	display: inline;
+}
+
+.menu li a{
+	text-decoration: none;
+	margin: 0 10px;
+	padding-bottom: 5px;
+	color: #000;
+}
+
+.menu li a:hover{
+	border-bottom: 5px solid #ddc560;
+	color: white;
+}
+
+.content{
+	margin: 0 auto;
+	width: 900px;
+	height:280px;
+	background: grey;
+	padding: 5px;
+}
+
+.c1{
+	float: left;
+	margin-right: 30px;
+	width: 270px;
+	height:270px;
+	background: #99ffcc;
+}
